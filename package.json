@@ -1,0 +1,22 @@
+{
+  "name": "my-three",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@tweenjs/tween.js": "^18.6.4",
+    "cannon-es": "^0.20.0",
+    "cannon-es-debugger": "^1.0.0",
+    "cifloader3": "^0.9.3",
+    "three": "^0.146.0",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}
